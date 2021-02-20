@@ -20,7 +20,7 @@ a{
   text-decoration:none;
 }
 
-.showcase{
+.showcase {
   @include set-background($primary-color);
   height:600px; 
 
